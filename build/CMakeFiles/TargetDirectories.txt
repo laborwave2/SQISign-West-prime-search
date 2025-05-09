@@ -1,0 +1,3 @@
+/home/laborwave/MyPrimeSearch/build/CMakeFiles/MyPrimeSearch.dir
+/home/laborwave/MyPrimeSearch/build/CMakeFiles/edit_cache.dir
+/home/laborwave/MyPrimeSearch/build/CMakeFiles/rebuild_cache.dir

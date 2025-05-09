@@ -1,0 +1,25 @@
+# 忽略 CMake 生成的 build 目录
+build/
+
+# 忽略可执行文件（假设是 MyPrimeSearch）
+MyPrimeSearch
+
+# 忽略中间缓存文件
+*.o
+*.obj
+*.gch
+
+# 忽略编译生成的 Makefile 和 CMake 缓存
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+
+# 忽略临时文件、日志、系统文件
+*.log
+*.tmp
+*~
+.DS_Store
+
+# 如果你用了 VSCode 编辑项目
+.vscode/

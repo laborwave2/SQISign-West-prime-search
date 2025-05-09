@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyPrimeSearch.dir/main.cpp.o -o MyPrimeSearch  /usr/lib/x86_64-linux-gnu/libgmp.so 
