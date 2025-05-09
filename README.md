@@ -74,6 +74,4 @@ SQISign-West-prime-search/
 
 ---
 
-## 📄 License
 
-本项目采用 MIT 协议，详见 [LICENSE](LICENSE) 文件。
